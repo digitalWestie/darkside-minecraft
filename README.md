@@ -1,6 +1,6 @@
 This project is a process for importing and exploring topographical maps of the Moon in the popular game Minecraft. 
 
-![a panoramic view of the moon on minecraft](https://github.com/digitalWestie/darkside-minecraft/blob/master/Panorama5.png "Yeah, I know you shouldn't be able to see the Earth from the dark side. But hey, it looks pretty :) ")
+![a panoramic view of the moon on minecraft](https://raw.github.com/digitalWestie/darkside-minecraft/master/panorama_small.png "Yeah, I know you shouldn't be able to see the Earth from the dark side. But hey, it looks pretty :) ")
 
 
 ==================
