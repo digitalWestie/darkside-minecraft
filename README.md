@@ -16,4 +16,4 @@ Alternatively, you can try importing the images yourself from worldpainter by go
 
  All the examples / images are of/around the Clavius crater on the DARK SIDE OF THE MOON. 
 
- ![clavius crater on the moon](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Clavius_LROC.jpg/320px-Clavius_LROC.jpg "Clavius Crater")
+[![clavius crater on the moon](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Clavius_LROC.jpg/320px-Clavius_LROC.jpg "Clavius Crater")] (http://en.wikipedia.org/wiki/Clavius_(crater))
